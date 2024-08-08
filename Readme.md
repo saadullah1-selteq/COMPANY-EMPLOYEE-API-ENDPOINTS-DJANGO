@@ -10,7 +10,7 @@ This Django project implements a REST API for managing Company and Employee reco
    ```bash
    git clone https://github.com/saadsaleem011/API-CUSTOM-API-S-EMPLOYEE-COMPANY
    cd your-repository
-   ```
+   ``` 
 
 2. **Create a virtual environment:**
    ```bash
