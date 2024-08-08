@@ -17,7 +17,7 @@ This Django project implements a REST API for managing Company and Employee reco
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    ```
-
+ 
 3. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
